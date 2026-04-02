@@ -18,8 +18,8 @@ A simple command-line temperature converter written in Rust. Enter a temperature
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/temperature-converter.git
-cd temperature-converter
+git clone https://github.com/Pandaaa-C/temp_convert.git
+cd temp_convert
 ```
 
 ### Run
